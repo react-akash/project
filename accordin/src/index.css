@@ -1,0 +1,18 @@
+body{
+       text-shadow: yellow;
+       
+       
+       background-color: pink;
+      
+}
+button{
+        color: black;
+      
+        border: 2px solid red;
+}
+
+button:hover{
+               color:black;
+               transform: scale(0.7);
+               
+}

@@ -1,0 +1,27 @@
+
+body{
+        background-color: aqua;
+}
+
+h1{
+      color: blue;
+     
+     
+}
+
+div{
+       
+     text-align: center;
+   
+}
+
+button{
+        color: white;
+        background-color: black ;
+
+}
+ button:hover{
+                transform: scale(0.9);
+ }
+
+

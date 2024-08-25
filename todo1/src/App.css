@@ -1,0 +1,15 @@
+.web{
+       height: 100vh;
+       width: 100vw;
+       color: rgb(0, 164, 205);
+       align-items: center;
+       background-color:green;
+       border: 10px;
+       border-bottom: red;
+       border-radius: 5px;
+       box-shadow: 5px px px;
+}
+
+button{
+           align-items: center;
+}

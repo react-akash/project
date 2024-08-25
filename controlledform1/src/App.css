@@ -1,0 +1,30 @@
+div{
+     
+     width: 30vw;
+     height: 50vh;
+     text-align: center;
+    
+
+}
+
+button{
+         color: red;
+         background-color: hotpink;
+         border-radius: 0px;
+         border-radius: 7px;
+}
+
+button:hover{
+               transform: scale(0.9);
+          
+}
+ 
+     input{
+               border-radius: 5px;
+               text-align: center;
+               
+              
+      }
+
+
+

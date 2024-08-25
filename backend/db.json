@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "Title": "Shapit",
+      "year": 1995,
+      "poster": "https://th.bing.com/th/id/OIP.50IYxbLODGiS1MjHGWOnkQAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7",
+      "id": "37f8"
+  },
+    {
+      "Title": "Border",
+      "year": 1997,
+      "poster": "https://th.bing.com/th/id/OIP.0B0E0bNsFC4hnYKtJXkDoAHaOG?w=181&h=345&c=7&r=0&o=5&pid=1.7",
+      "id": "af2a"
+    },
+    {
+      "Title": "RRR",
+      "year": "2022",
+      "poster": "https://th.bing.com/th/id/OIP.tNguNW9JxnJxwPC4-fuqQQHaLH?w=115&h=180&c=7&r=0&o=5&pid=1.7",
+      "id": "7ce7"
+    }
+  ]
+}

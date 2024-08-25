@@ -1,0 +1,17 @@
+body{
+          background-color:hotpink;
+}
+
+button{
+         background-color:aqua;
+         border: 1px solid black;
+         height: 5vh;
+         width: 5vw;
+         border-radius:  9px;
+        
+}
+ button:hover{
+               
+                transform: scale(0.6);
+               
+ }
