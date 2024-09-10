@@ -1,18 +1,17 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import CustomerForm from './CustomerForm';
-import CustomerList from './CustomerList';
+import Movies from "./Movies"
 
-const App = () => {
-    return (
-        <Router>
-            <Switch>
-                <Route path="/" exact component={CustomerList} />
-                <Route path="/add" component={CustomerForm} />
-                {/* Add a route for editing customer */}
-            </Switch>
-        </Router>
-    );
-};
+function App()
+{
+  return(
+             
 
-export default App;
+       <div>
+
+                 <Movies/>
+                 <Movies/>
+                 <Movies/>
+
+       </div>
+  )
+}
+  export default App
