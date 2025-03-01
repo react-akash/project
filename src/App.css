@@ -1,0 +1,37 @@
+body{
+    
+       display: flex;
+       justify-content: center;   
+       background-color: hotpink;
+      align-items: center;
+       height: 100vh;
+       border-radius: 16px;
+
+
+}
+
+.count{
+    height: 40vh;
+    width: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    border-radius: 20px;
+
+}
+
+  p{
+      font-size: 35px;
+      text-align: center;
+      color: white;
+  }
+
+  button{
+             padding:10px;
+             background-color: black;
+             color: aliceblue;
+             border-radius: 15px;
+             margin: 20px;
+  }
